@@ -1,0 +1,4 @@
+# Keep data files small for demo - ignore large compressed files if added later
+*.gz
+*.bz2
+*.zip
