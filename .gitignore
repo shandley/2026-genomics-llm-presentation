@@ -1,0 +1,11 @@
+# Large compressed files (keep demo data small)
+# Note: data/aln.bt.vcf.gz was committed before this rule
+*.bz2
+*.zip
+
+# OS files
+.DS_Store
+
+# Editor files
+*.swp
+*~
